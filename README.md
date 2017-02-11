@@ -2,7 +2,7 @@
 
 A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for [Godot](http://godotengine.org).
 
-For installation instructions, read [INSTALL.md](https://github.com/Calinou/awesome-godot/blob/master/INSTALL.md).
+For installation instructions, read [INSTALL.md](../master/INSTALL.md).
 
 ## Games
 
